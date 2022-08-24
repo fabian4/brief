@@ -5,6 +5,7 @@ public/
 
 node_modules/
 build/
+.idea
 
 ## OS Files
 # Windows
