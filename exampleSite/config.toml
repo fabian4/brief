@@ -2,14 +2,14 @@ baseURL = "https://example.com"
 
 # theme
 # 主题
-theme = "LoveIt"
+theme = "brief"
 # themes directory
 # 主题目录
 themesDir = "../.."
 
 # website title
 # 网站标题
-title = "LoveIt"
+title = "brief"
 
 # determines default content language ["en", "zh-cn", "fr", "pl", ...]
 # 设置默认的语言 ["en", "zh-cn", "fr", "pl", ...]
